@@ -23,15 +23,19 @@ Per our lot summary table, we can see that lots 1 and 2 meet this requirement. T
 We performed multiple t-tests on whether or not PSI for suspension coils are statistically significant from the population mean. We performed one test across all three lots where they are manufactured, and one test per individual lot.
 
 ![Overall T-Test](images/overall_ttest.png)
+
 For our overall t-test, our p-value is 1. There is no statistically significant difference between the population mean (1498.78 pounds per square inch) and the sample mean (1498.78 pounds per square inch.
 
 ![Lot1 T-Test](images/lot1_ttest.png)
+
 For our Lot1 t-test, our p-value is 1.56e-11. There is a statistically significant difference between the population mean (1498.78 pounds per square inch) and the sample mean (1500 pounds per square inch).
 
 ![Lot2 T-Test](images/lot2_ttest.png)
+
 For our Lot2 t-test, our p-value is 0.0005911. There is a statistically significant difference between the population mean (1498.78 pounds per square inch) and the sample mean (1500.2 pounds per square inch).
 
 ![Lot3 T-Test](images/lot3_ttest.png)
+
 For our Lot3 t-test, our p-value is 0.1589. There is not a statistically significant difference between the population mean (1498.78 pounds per square inch) and the sample mean (1496.14 pounds per square inch).
 
 ## Study Design: MechaCar vs Competition
